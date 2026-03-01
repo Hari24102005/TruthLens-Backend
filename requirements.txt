@@ -1,0 +1,10 @@
+flask
+transformers
+torch
+torchvision
+easyocr
+requests
+beautifulsoup4
+numpy
+pillow
+gunicorn
